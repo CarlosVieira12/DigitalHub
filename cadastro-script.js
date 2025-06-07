@@ -196,7 +196,7 @@ function handleSignup(e) {
 
     // Redirecionar para a página de login após 1.5 segundos
     setTimeout(() => {
-      window.location.href = "login.html"
+      window.location.href = "index.html"
     }, 1500)
   }, 2000)
 }

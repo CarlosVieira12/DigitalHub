@@ -388,7 +388,7 @@ function handleLogin(e) {
 
     // Redirecionar para a página principal após 1.5 segundos
     setTimeout(() => {
-      window.location.href = "index.html"
+      window.location.href = "home.html"
     }, 1500)
   }, 2000)
 }
